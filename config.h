@@ -21,6 +21,7 @@ static const Block blocks[] = {
 	{"",	"mailbox",	180,	12},
 	{"",	"nettraf",	1,	16},
 	{"",	"volume",	0,	10},
+	{"",	"~/mybin/statusbar/mymic",	0,	26},
 	{"",	"battery",	5,	3},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
